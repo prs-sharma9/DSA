@@ -1,3 +1,5 @@
+// LINK: https://neetcode.io/problems/duplicate-integer/question?list=neetcode150
+
 /*
 * THE PROBLEM
 * I'm given an array of integers and I need to figure out if any value appears more than once.

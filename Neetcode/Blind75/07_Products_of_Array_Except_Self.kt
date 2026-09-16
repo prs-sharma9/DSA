@@ -1,3 +1,5 @@
+// LINK: https://neetcode.io/problems/products-of-array-discluding-self/question?list=neetcode150
+
 /*
 * THE PROBLEM
 * I'm given an array of integers, and for each position I need to return the product of every

@@ -1,3 +1,5 @@
+// LINK: https://neetcode.io/problems/string-encode-and-decode/question?list=neetcode150
+
 /*
 * THE PROBLEM
 * I need to encode a list of strings into a single string, and then be able to decode that single
